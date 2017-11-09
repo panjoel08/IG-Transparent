@@ -1,0 +1,9 @@
+Package: com.panjoel.warnaig
+Name: instagram transparent 
+Depends: mobilesubstrate
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Instagram Transparent
+Maintainer: panjoel
+Author: panjoel
+Section: Tweaks
